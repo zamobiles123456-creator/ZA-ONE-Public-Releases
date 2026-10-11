@@ -2,10 +2,10 @@
   "release": {
     "product": "ZA_ONE",
     "channel": "stable",
-    "version": "24.13",
-    "installer_url": "https://github.com/zamobiles123456-creator/ZA-ONE-Public-Releases/releases/download/v24.13/ZA-ONE-Setup.exe",
-    "sha256": "3c2a1a1ce18d5ec5a121356e06f1083b9434e15955a488874997681e8c04e4f0",
-    "size": 23294166
+    "version": "24.15",
+    "installer_url": "https://github.com/zamobiles123456-creator/ZA-ONE-Public-Releases/releases/download/v24.15/ZA-ONE-Setup.exe",
+    "sha256": "367fa6a9e4ecb8edf725f7da36fac9fd835bfe02c5fb65912c670f1a29454d36",
+    "size": 23296030
   },
-  "signature": "GIv9BYRM6Lwn4tBbujxI0VxFFE23E5Q7E819kh5u8By7Wg92Fl9tA/EmpIP1aTc5tXw39b4oB0GFcv/vYSQoAw=="
+  "signature": "Mv3ALC2+vRJsGuYF7U21I5iZBWNCCUGLJ8GJ6x7UG7KpVl70xKHjTnC4/uGxVQ8W6ST7cF68j70gOYAOfhybCw=="
 }
